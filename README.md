@@ -113,10 +113,8 @@ The objective is to build an end-to-end analytical solution covering **data mode
 ## 🖼 Screenshots
 
 ### 🔹 Tasks Breakdown Reference
-![Tasks Breakdown](Screenshot 2026-01-05 184349.png)
 
-### 🔹 Deliverables & Additional Requirements
-![Deliverables](Screenshot 2026-01-05 184406.png)
+![Model view](Modelview.png)
 
 ---
 
