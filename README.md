@@ -112,9 +112,15 @@ The objective is to build an end-to-end analytical solution covering **data mode
 
 ## 🖼 Screenshots
 
-### 🔹 Tasks Breakdown Reference
+### 🔹 Dashboard
 
-![Model view](Modelview.png)
+![Dashboard view](Dashboard.png)
+
+![Retuen view](ReturnDetail.png)
+
+![Product view](ProductDetail.png)
+
+![Customer view](CustomerDetail.png)
 
 ---
 
