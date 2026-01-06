@@ -91,9 +91,6 @@ The objective is to build an end-to-end analytical solution covering **data mode
 ### 7️⃣ Mobile Layout
 - Optimized key pages for mobile devices
 - Focus on KPI Cards and Top N visuals
-
-![Mobil view](Mobileview.png)
-
 ---
 
 ### 8️⃣ Security
